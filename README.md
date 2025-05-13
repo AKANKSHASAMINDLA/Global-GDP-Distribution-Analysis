@@ -29,7 +29,7 @@ You can view the dashboard live on **Tableau Public**: [View on Tableau Public](
 To explore the full dashboard locally, download the `.twbx` file from the repository and open it in **Tableau Desktop**.
 
 ## Screenshots
-![Global GDP Distribution](https://public.tableau.com/app/profile/akanksha.samindla3090/viz/gdp1111/Dashboard1?publish=yes)
+![Global GDP Distribution](https://github.com/AKANKSHASAMINDLA/Global-GDP-Distribution-Analysis/blob/main/Global_distribution_of_world_gdp.png)
 
 ## Contributing
 Feel free to fork the repository, contribute enhancements, or submit bug reports. Contributions to improve the dashboard or add new features are welcome!
